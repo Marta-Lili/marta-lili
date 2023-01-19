@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning *React Native* and *Mearn*
 - 📫 How to reach me: martapietrzak99@gmail.com
 
--->
+<span><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" alt="React logo" title="React"/></span>
