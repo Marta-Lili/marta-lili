@@ -17,3 +17,16 @@ Leaning Languages:
 <span><img src="https://img.shields.io/badge/-Node.js-282C34?logo=node.js&logoColor=00F200" alt="TypeScript logo" title="Node.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=marta-lili&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=marta-lili&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=marta-lili&show_icons=true" />
+</picture>
